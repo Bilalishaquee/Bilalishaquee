@@ -13,7 +13,7 @@
 - 🤖 Exploring **Custom AI Solutions** for real-world problems  
 - 🌐 Passionate about **blockchain**, smart contracts & decentralized apps  
 - 🧠 Always learning, always building  
-- 📫 How to reach me: **[bilal@example.com](mailto:bilal@example.com)**  
+- 📫 How to reach me: **[bilal@example.com](mailto:mbilal27012001@gmail.com)**  
 - 🌍 Portfolio: [https://devoan.com](https://devoan.com)  
 - 💼 LinkedIn: [linkedin.com/in/bilal-ishaquee](https://linkedin.com/in/bilal-ishaquee-228a58235)
 
