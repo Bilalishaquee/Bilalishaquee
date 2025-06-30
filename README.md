@@ -39,16 +39,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilalishaquee&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilalishaquee&theme=radical" alt="GitHub streak" />
-</p>
-
----
-
 ### 🏆 Achievements & Goals
 
 - 🧠 Master full-stack SaaS platform development  
