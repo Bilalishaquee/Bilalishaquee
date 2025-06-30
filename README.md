@@ -1,60 +1,86 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Ishaque</h1>
 <h3 align="center">🚀 MERN Stack Developer | Blockchain & AI Enthusiast | Freelance Expert</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Transforming+Ideas+into+Digital+Solutions;Full-Stack+Development+Specialist;Custom+AI+Solution+Builder;Open+to+Exciting+Projects" />
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 💫 About Me
+
+- 🔭 Currently building full-stack apps using **MERN** technologies  
+- 🤖 Working on **Custom AI Solutions** for real-world impact  
+- 🌐 Passionate about **Blockchain, DApps, and Smart Contracts**  
+- 🧠 Lifelong learner & open-source contributor  
+- 📫 Email me at: **[mbilal27012001@gmail.com](mailto:mbilal27012001@gmail.com)**  
+- 🌍 Portfolio: [devoan.com](https://devoan.com)  
+- 💼 LinkedIn: [linkedin.com/in/bilal-ishaquee-228a58235](https://www.linkedin.com/in/bilal-ishaquee-228a58235/)
+
+</td>
+<td align="center" width="40%">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bilal-ishaquee-228a58235/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/bilal_ishaquee/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1972SESvNW/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:mbilal27012001@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" />
+  </a>
 </p>
 
 ---
 
-### 💫 About Me
+### 💻 Languages & Tools
 
-- 🔭 I’m currently working on full-stack web apps with **MERN** technologies  
-- 🤖 Exploring **Custom AI Solutions** for real-world problems  
-- 🌐 Passionate about **blockchain**, smart contracts & decentralized apps  
-- 🧠 Always learning, always building  
-- 📫 How to reach me: **[bilal@example.com](mailto:mbilal27012001@gmail.com)**  
-- 🌍 Portfolio: [https://devoan.com](https://devoan.com)  
-- 💼 LinkedIn: [linkedin.com/in/bilal-ishaquee](https://linkedin.com/in/bilal-ishaquee-228a58235)
-
----
-
-### 🚀 Tech Stack
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white&style=flat)
-
-**Other Tools:**  
-![Blockchain](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+</p>
 
 ---
 
-### 🏆 Achievements & Goals
+### 🏆 Goals
 
-- 🧠 Master full-stack SaaS platform development  
-- ⚙️ Build AI-powered tools to automate workflows  
-- 🌍 Launch a public blockchain-based application  
-- 💬 Mentor budding developers in open-source  
-
----
-
-### 📬 Let's Collaborate
-
-Got an idea? Need a developer? Want to discuss a project?  
-**I'm open to exciting freelance or collaborative opportunities.**
-
-📩 **Drop me a message on [LinkedIn](https://linkedin.com/in/bilal-ishaquee-228a58235) or [Email](mailto:bilal@example.com)**
+- 🌟 Master full-stack SaaS & product development  
+- ⚙️ Launch scalable AI & blockchain applications  
+- 📘 Contribute to open-source communities  
+- 🧑‍🏫 Mentor junior developers  
 
 ---
 
-> *"Code is not just a skill — it's the art of turning imagination into reality."*
+### ✨ Quote
+
+> “Code is not just a skill — it's the art of turning imagination into reality.”  
+> — *Bilal Ishaque*
+
+---
+
+### 📍 Visitor Counter
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Bilalishaquee&label=Visitors&color=0e75b6&style=flat" alt="profile-views" />
+</p>
