@@ -1,21 +1,31 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Ishaque</h1>
 <h3 align="center">🚀 MERN Stack Developer | Blockchain & AI Enthusiast | Freelance Expert</h3>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer gif" style="width:100%; max-width:400px;" />
-</div>
-
 ---
 
-### 💫 About Me
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
 
-- 🔭 Currently building full-stack apps using **MERN** technologies  
-- 🤖 Working on **Custom AI Solutions** for real-world impact  
-- 🌐 Passionate about **Blockchain, DApps, and Smart Contracts**  
-- 🧠 Lifelong learner & open-source contributor  
-- 📫 Email me at: **[mbilal27012001@gmail.com](mailto:mbilal27012001@gmail.com)**  
-- 🌍 Portfolio: [devoan.com](https://devoan.com)  
-- 💼 LinkedIn: [linkedin.com/in/bilal-ishaquee-228a58235](https://www.linkedin.com/in/bilal-ishaquee-228a58235/)
+  <!-- Profile Image -->
+  <div style="flex: 1; min-width: 280px; max-width: 400px;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer gif" style="width: 100%; height: auto; border-radius: 10px;" />
+  </div>
+
+  <!-- About Me Section -->
+  <div style="flex: 1; min-width: 280px; max-width: 500px; text-align: left;">
+    
+  <h3>💫 About Me</h3>
+
+  - 🖥️ Currently building full-stack apps using <strong>MERN</strong> technologies  
+  - 🤖 Working on <strong>Custom AI Solutions</strong> for real-world impact  
+  - 🌐 Passionate about <strong>Blockchain, DApps, and Smart Contracts</strong>  
+  - 📚 Lifelong learner & open-source contributor  
+  - 📫 Email me at: <a href="mailto:mbilal27012001@gmail.com">mbilal27012001@gmail.com</a>  
+  - 🌍 Portfolio: <a href="https://devoan.com">devoan.com</a>  
+  - 💼 LinkedIn: <a href="https://www.linkedin.com/in/bilal-ishaquee-228a58235/">bilal-ishaquee-228a58235</a>
+
+  </div>
+
+</div>
 
 ---
 
