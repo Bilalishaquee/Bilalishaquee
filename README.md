@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Ishaque</h1>
 <h3 align="center">🚀 MERN Stack Developer | Blockchain & AI Enthusiast | Freelance Expert</h3>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer gif" style="width:100%; max-width:400px;" />
+</div>
+
+---
 
 ### 💫 About Me
 
@@ -15,20 +17,11 @@
 - 🌍 Portfolio: [devoan.com](https://devoan.com)  
 - 💼 LinkedIn: [linkedin.com/in/bilal-ishaquee-228a58235](https://www.linkedin.com/in/bilal-ishaquee-228a58235/)
 
-</td>
-<td align="center" width="40%">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/bilal-ishaquee-228a58235/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" />
   </a>
@@ -50,7 +43,7 @@
 
 ### 💻 Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
@@ -81,6 +74,6 @@
 
 ### 📍 Visitor Counter
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bilalishaquee&label=Visitors&color=0e75b6&style=flat" alt="profile-views" />
 </p>
